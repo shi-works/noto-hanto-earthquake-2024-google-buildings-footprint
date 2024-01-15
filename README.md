@@ -4,7 +4,7 @@
 ![image](https://github.com/shi-works/noto-hanto-earthquake-2024-google-buildings-footprint/assets/71203808/d2279783-898b-403e-be54-212d49344569)
 
 # FlatGeobuf
-
+https://xs489works.xsrv.jp/pmtiles-data/google/google_buildings_footprint_ishikawa_toyama.fgb (717MB)
 # PMTiles
 
 # Data Source
