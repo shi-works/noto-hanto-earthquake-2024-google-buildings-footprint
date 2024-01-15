@@ -6,6 +6,6 @@
 # FlatGeobuf
 https://xs489works.xsrv.jp/pmtiles-data/google/google_buildings_footprint_ishikawa_toyama.fgb (717MB)
 # PMTiles
-https://xs489works.xsrv.jp/pmtiles-data/google/google_buildings_footprint_ishikawa_toyama.pmtiles (240MB ズームレベル4-12)
+https://xs489works.xsrv.jp/pmtiles-data/google/google_buildings_footprint_ishikawa_toyama.pmtiles (482MB ズームレベル4-14)
 # Data Source
 https://data.humdata.org/dataset/open_buildings_v3_west_japan_earthquake_epicenter (ライセンス：CC BY 4.0 または ODbL)
